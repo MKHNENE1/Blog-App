@@ -1,0 +1,89 @@
+{
+  "posts": [
+    {
+      "id": "6",
+      "title": "Creators And Martians",
+      "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "picture": "https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InRveXRhbGVzIiwidGV4dCI6IlJlYWN0IiwiaWF0IjoxNzI2MDc3NjgwfQ.heKJLtH51xPp6XWcZdd7SBUO0n6BG6-HwMeFmZpng6Q",
+      "user_name": "William Taylor",
+      "user_id": "7"
+    },
+    {
+      "id": "12",
+      "title": "History Explained in Fewer than 140 Characters",
+      "content": "testing the Posts without Image",
+      "user_name": "Emma Johnson",
+      "user_id": "9"
+    },
+    {
+      "id": "7",
+      "title": "Hidden By Solar Flares",
+      "content": "Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "picture": "https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImZsb2F0aWUiLCJ0ZXh0IjoiUmVhY3QiLCJpYXQiOjE3MjYwNzc2ODB9.jACXkICLKOj2bC8NmDMPDif3fvy04E1_KgKrVXHmOTo",
+      "user_name": "Olivia Martinez",
+      "user_id": "6"
+    },
+    {
+      "id": "8",
+      "title": "Serenity Of Outer Space",
+      "content": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "picture": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c28517207536503.66df77a2af561.png",
+      "user_name": "James Anderson",
+      "user_id": "10"
+    },
+    {
+      "id": "12",
+      "title": "History Explained in Fewer than 140 Characters",
+      "content": "testing the Posts without Image",
+      "user_name": "Emma Johnson",
+      "user_id": "9"
+    },
+    {
+      "id": "9",
+      "title": "Officers With Spaceships",
+      "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+      "picture": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/44a145207536503.66df77a2b4067.png",
+      "user_name": "Mia Brown",
+      "user_id": "3"
+    },
+    {
+      "id": "10",
+      "title": "Leaders And Leaders",
+      "content": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "picture": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/69b880207536503.66df77a2b4860.png",
+      "user_name": "Ethan Davis",
+      "user_id": "2"
+    },
+    {
+      "id": "11",
+      "title": "5 Killer Quora Answers on History",
+      "content": "Te altera melius pro. Te ius enim vituperata, usu audiam corpora offendit te. No sit tale eius soleat, fastidii legendos sit ne. Nec ferri adolescens accommodare ei.\r\n\r\nVeniam inciderint mei ea. Qui decore timeam ponderum id. Eum cu esse diceret, ea congue admodum voluptua pri. Pri eu molestie deserunt philosophia, civibus mandamus et eum. Ei vim saepe prompta platonem, eum tacimates assentior eu. Pri dicunt expetendis ne, vim ad minim vivendum, per eius scaevola te.",
+      "picture": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*h7GMfvHKvLPkynG9NvULJw.gif",
+      "user_name": "Charlotte Garcia",
+      "user_id": "12"
+    },
+    {
+      "id": "12",
+      "title": "History Explained in Fewer than 140 Characters",
+      "content": "testing the Posts without Image",
+      "user_name": "Emma Johnson",
+      "user_id": "9"
+    },
+    {
+      "id": "f071",
+      "title": "testing",
+      "content": "testing the Posts",
+      "picture": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/94cffd207536503.66df77a2b1624.png",
+      "user_name": "Mohamed Halabia",
+      "user_id": 82
+    },
+    {
+      "id": "572f",
+      "title": "Understanding React: A Comprehensive Guide to Building Modern Web Applications",
+      "content": "Component-Based Architecture: React promotes a modular approach to building UIs by creating components that manage their own state and can be reused across different parts of an application. This approach leads to more maintainable and scalable code.",
+      "picture": "https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif",
+      "user_id": 88,
+      "user_name": "Mohamed Halabia"
+    }
+  ]
+}
